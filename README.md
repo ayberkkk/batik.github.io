@@ -1,2 +1,6 @@
 # batik.github.io
-Batik E-Commerce (Beta)
+A simple e-commerce web site Batik E-Commerce (Beta)
+
+🧰 Toolbox
+Bootstrap 5.1.3
+Simple Js
